@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Slider</string>
+    <string name="slider_preferences">Slider Preferences</string>
+    <string name="about">About</string>
+    <string name="grid_height">Grid Height</string>
+    <string name="grid_height_summary">Change the Height of the Puzzle Grid</string>
+    <string name="grid_width">Grid Width</string>
+    <string name="grid_width_summary">Change the Width of the Puzzle Grid</string>
+    <string name="num_shuffles">Shuffle Iterations</string>
+    <string name="num_shuffles_summary">Change the Number of Shuffle Iterations</string>
+</resources>

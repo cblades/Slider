@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="PREF_GRID_HEIGHT"
+        android:title="@string/grid_height"
+        android:summary="@string/grid_height_summary"
+        android:defaultValue="4"
+    />
+    <EditTextPreference
+        android:key="PREF_GRID_WIDTH"
+        android:title="@string/grid_width"
+        android:summary="@string/grid_width_summary"
+        android:defaultValue="3"
+    /> 
+    <EditTextPreference
+    	android:key="PREF_NUM_SHUFFLES"
+    	android:title="@string/num_shuffles"
+    	android:summary="@string/num_shuffles_summary"
+    	android:defaultValue="20"
+    />
+</PreferenceScreen>

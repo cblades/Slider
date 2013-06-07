@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<!--  "New Game" Menu Item -->
+    <item android:id="@+id/newgame"
+          android:title="New Game" />
+    <!--  "Preferences" Menu Item -->
+    <item android:id="@+id/preferences"
+          android:title="Preferences" />
+    <!--  "Select Picture" Menu Item -->
+    <item android:id="@+id/selectpicture"
+          android:title="Select Picture" />
+    <item android:id="@+id/about"
+          android:title="About" />
+</menu>
